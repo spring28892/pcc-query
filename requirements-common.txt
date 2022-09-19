@@ -1,0 +1,8 @@
+# Common requirements used across local dev and production
+FastAPI
+gunicorn
+starlette
+uvicorn
+bs4
+requests
+lxml
